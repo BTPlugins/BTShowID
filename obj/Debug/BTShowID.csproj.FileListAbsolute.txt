@@ -1,0 +1,15 @@
+C:\Users\blaze\source\repos\BTShowID\BTShowID\bin\Debug\BTShowID.dll
+C:\Users\blaze\source\repos\BTShowID\BTShowID\bin\Debug\BTShowID.pdb
+C:\Users\blaze\source\repos\BTShowID\BTShowID\bin\Debug\Assembly-CSharp.dll
+C:\Users\blaze\source\repos\BTShowID\BTShowID\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\blaze\source\repos\BTShowID\BTShowID\bin\Debug\Rocket.API.dll
+C:\Users\blaze\source\repos\BTShowID\BTShowID\bin\Debug\Rocket.Core.dll
+C:\Users\blaze\source\repos\BTShowID\BTShowID\bin\Debug\Rocket.Unturned.dll
+C:\Users\blaze\source\repos\BTShowID\BTShowID\bin\Debug\SDG.NetTransport.dll
+C:\Users\blaze\source\repos\BTShowID\BTShowID\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\blaze\source\repos\BTShowID\BTShowID\bin\Debug\UnityEngine.dll
+C:\Users\blaze\source\repos\BTShowID\BTShowID\obj\Debug\BTShowID.csproj.AssemblyReference.cache
+C:\Users\blaze\source\repos\BTShowID\BTShowID\obj\Debug\BTShowID.csproj.CoreCompileInputs.cache
+C:\Users\blaze\source\repos\BTShowID\BTShowID\obj\Debug\BTShowID.csproj.CopyComplete
+C:\Users\blaze\source\repos\BTShowID\BTShowID\obj\Debug\BTShowID.dll
+C:\Users\blaze\source\repos\BTShowID\BTShowID\obj\Debug\BTShowID.pdb
