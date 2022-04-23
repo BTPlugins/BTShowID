@@ -29,10 +29,7 @@ namespace BTShowID.Commands
         {
             UnturnedPlayer player = (UnturnedPlayer)caller;
             if (player.Player.equipment.isBusy || !player.Player.equipment.isEquipped) return;
-            if (player.Player.equipment.isEquipped)
-            {
-                ChatManager.say(player.CSteamID, Main.Instance.Translate("ShowID", player.Player.equipment.itemID).Replace("{", "<").Replace("}", ">"), Color.red, true);
-            }
+            ChatManager.say(player.CSteamID, Main.Instance.Translate("ShowID", player.Player.equipment.itemID).Replace("{", "<").Replace("}", ">"), Color.red, true);
         }
     }
 }
