@@ -16,7 +16,7 @@ namespace BTShowID
         {
             Instance = this;
             Logger.Log("#############################################", ConsoleColor.Yellow);
-            Logger.Log("###           BTShowID Loaded         ###", ConsoleColor.Yellow);
+            Logger.Log("###           BTShowID Loaded             ###", ConsoleColor.Yellow);
             Logger.Log("###   Plugin Created By blazethrower320   ###", ConsoleColor.Yellow);
             Logger.Log("###            Join my Discord:           ###", ConsoleColor.Yellow);
             Logger.Log("###     https://discord.gg/YsaXwBSTSm     ###", ConsoleColor.Yellow);
